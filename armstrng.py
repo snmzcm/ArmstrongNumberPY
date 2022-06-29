@@ -14,7 +14,7 @@ def main():
     if totalsum == numberCheck:
         print(f"{numberCheck} is an Armstrong Number ")
     else:
-        printf("{numberCheck} is not an Armstrong Number")
+        print(f"{numberCheck} is not an Armstrong Number")
 
 
 
